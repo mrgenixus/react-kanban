@@ -1,0 +1,14 @@
+{
+  "name": "react-kanban",
+  "version": "1.0.0",
+  "description": "A basic Kanabn board using YooTheme's UIKIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webkit": "0.0.0"
+  }
+}
